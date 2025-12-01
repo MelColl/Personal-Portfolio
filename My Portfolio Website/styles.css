@@ -108,5 +108,666 @@
   	width: 1220px;
   	flex-shrink: 0;
 }
+.about-me {
+  	width: 100%;
+  	height: 982px;
+  	position: relative;
+  	background-color: #fff2f2;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 5px;
+  	color: #fff;
+  	font-family: 'Linden Hill';
+}
+.about-me-child {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0px;
+  	left: 0px;
+  	background-color: #db9e9e;
+  	height: 157px;
+  	flex-shrink: 0;
+}
+.about-me-item {
+  	position: absolute;
+  	width: 100%;
+  	top: 157px;
+  	right: 0px;
+  	left: 0px;
+  	background-color: #af3d3d;
+  	height: 76px;
+  	flex-shrink: 0;
+}
+.about-me2 {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% - 326px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 420px;
+  	height: 98px;
+  	flex-shrink: 0;
+}
+.my-projects {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% + 20px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 268px;
+  	height: 124px;
+  	flex-shrink: 0;
+}
+.summary {
+  	position: absolute;
+  	top: 164px;
+  	left: calc(50% + 404px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 414px;
+  	height: 99px;
+  	flex-shrink: 0;
+}
+.home {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% - 671px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	display: inline-block;
+  	width: 145px;
+  	height: 92px;
+  	flex-shrink: 0;
+  	color: #450a0a;
+}
+.span {
+  	color: #000;
+}
+.mel-collins {
+  	position: absolute;
+  	top: 908px;
+  	left: calc(50% - 733px);
+  	font-size: 64px;
+  	font-family: 'Libre Barcode 128 Text';
+  	color: #000;
+  	display: inline-block;
+  	width: 445px;
+  	flex-shrink: 0;
+}
+.img-8131-1-icon {
+  	position: absolute;
+  	top: 257px;
+  	left: calc(50% + 508px);
+  	width: 226px;
+  	height: 301px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.img-0295-1-icon {
+  	position: absolute;
+  	top: 583px;
+  	left: calc(50% + 259px);
+  	width: 227px;
+  	height: 303px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.img-4113-1-icon {
+  	position: absolute;
+  	top: 257px;
+  	left: calc(50% + 258px);
+  	width: 226px;
+  	height: 302px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.img-7455-1-icon {
+  	position: absolute;
+  	top: 583px;
+  	left: calc(50% + 508px);
+  	width: 227px;
+  	height: 302px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.im-mel-collins {
+  	position: absolute;
+  	top: 308px;
+  	left: 22px;
+  	font-size: 32px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 944px;
+  	height: 201px;
+  	flex-shrink: 0;
+}
+.img-5501-1-icon {
+  	position: absolute;
+  	top: 584px;
+  	left: calc(50% - 733px);
+  	width: 227px;
+  	height: 302px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.img-9307-1-icon {
+  	position: absolute;
+  	top: 583px;
+  	left: calc(50% - 486px);
+  	width: 227px;
+  	height: 302px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.img-5419-1-icon {
+  	position: absolute;
+  	top: 584px;
+  	left: calc(50% - 236px);
+  	width: 225px;
+  	height: 301px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.img-6638-1-icon {
+  	position: absolute;
+  	top: 583px;
+  	left: calc(50% + 11px);
+  	width: 226px;
+  	height: 302px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.mel-collins2 {
+  	position: absolute;
+  	top: 12px;
+  	left: calc(50% - 313px);
+  	font-size: 120px;
+  	font-family: 'New Rocker';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 576px;
+  	height: 132px;
+  	flex-shrink: 0;
+}
+.mel-collins3 {
+  	position: absolute;
+  	top: 751px;
+  	left: 98px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins4 {
+  	position: absolute;
+  	top: 697px;
+  	left: 294px;
+  	display: inline-block;
+  	width: 26px;
+  	height: 6px;
+  	flex-shrink: 0;
+}
+.mel-collins5 {
+  	position: absolute;
+  	top: 720.59px;
+  	left: 642px;
+  	display: inline-block;
+  	width: 27.1px;
+  	height: 14.6px;
+  	transform:  rotate(-23deg);
+  	transform-origin: 0 0;
+  	flex-shrink: 0;
+}
+.mel-collins6 {
+  	position: absolute;
+  	top: 877px;
+  	left: 925px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins7 {
+  	position: absolute;
+  	top: 826px;
+  	left: 1151px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins8 {
+  	position: absolute;
+  	top: 724px;
+  	left: 1378px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins9 {
+  	position: absolute;
+  	top: 549px;
+  	left: 1422px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins10 {
+  	position: absolute;
+  	top: 476px;
+  	left: 1129px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.my-project {
+  	width: 100%;
+  	height: 2991px;
+  	position: relative;
+  	background-color: #fff2f2;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 5px;
+  	color: #fff;
+  	font-family: 'Linden Hill';
+}
+.my-project-child {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0px;
+  	left: 0px;
+  	background-color: #db9e9e;
+  	height: 157px;
+  	flex-shrink: 0;
+}
+.my-project-item {
+  	position: absolute;
+  	width: 100%;
+  	top: 157px;
+  	right: 0px;
+  	left: 0px;
+  	background-color: #af3d3d;
+  	height: 76px;
+  	flex-shrink: 0;
+}
+.about-me {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% - 317.5px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 420px;
+  	height: 98px;
+  	flex-shrink: 0;
+}
+.my-projects {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% + 28.5px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 268px;
+  	height: 124px;
+  	flex-shrink: 0;
+}
+.summary {
+  	position: absolute;
+  	top: 164px;
+  	left: calc(50% + 412.5px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 414px;
+  	height: 99px;
+  	flex-shrink: 0;
+}
+.home {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% - 662.5px);
+  	font-size: 48px;
+  	font-family: 'Lilita One';
+  	display: inline-block;
+  	width: 145px;
+  	height: 92px;
+  	flex-shrink: 0;
+  	color: #450a0a;
+}
+.span {
+  	color: #000;
+}
+.mel-collins {
+  	position: absolute;
+  	top: 2903px;
+  	left: calc(50% - 730.5px);
+  	font-size: 64px;
+  	font-family: 'Libre Barcode 128 Text';
+  	color: #000;
+  	display: inline-block;
+  	width: 445px;
+  	flex-shrink: 0;
+}
+.projects-week-3-project-3 {
+  	position: absolute;
+  	top: 454px;
+  	left: calc(50% - 730.5px);
+  	width: 475px;
+  	height: 647px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.projects-week-3-project-2 {
+  	position: absolute;
+  	top: 454px;
+  	left: calc(50% + 258.5px);
+  	width: 476px;
+  	height: 652px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.projects-week-3-project-1 {
+  	position: absolute;
+  	top: 452px;
+  	left: calc(50% - 237.5px);
+  	width: 478px;
+  	height: 652px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.for-my-graphic {
+  	position: absolute;
+  	top: 289px;
+  	left: calc(50% - 733.5px);
+  	font-size: 32px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	white-space: pre-wrap;
+  	display: inline-block;
+  	width: 1477px;
+  	height: 157px;
+  	flex-shrink: 0;
+}
+.duck-editedtif-phototif- {
+  	position: absolute;
+  	top: 1294px;
+  	left: calc(50% - 733.5px);
+  	width: 721px;
+  	height: 481px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.ios-edit-of-cat-and-mouse-c {
+  	position: absolute;
+  	top: 1811px;
+  	left: calc(50% - 733.5px);
+  	width: 722px;
+  	height: 481px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.edited-under-armour-photo-ed {
+  	position: absolute;
+  	top: 1294px;
+  	left: calc(50% + 10.5px);
+  	width: 722px;
+  	height: 482px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.img-0208-2-icon {
+  	position: absolute;
+  	top: 1812px;
+  	left: calc(50% + 14.5px);
+  	width: 720px;
+  	height: 481px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.below-are-some {
+  	position: absolute;
+  	top: 1230px;
+  	left: calc(50% - 733.5px);
+  	font-size: 32px;
+  	font-family: 'Lilita One';
+  	color: #000;
+  	display: inline-block;
+  	width: 1466px;
+  	height: 55px;
+  	flex-shrink: 0;
+}
+.shoe-advertisement-idea-2-co {
+  	position: absolute;
+  	top: 2329px;
+  	left: calc(50% + 14.5px);
+  	width: 718px;
+  	height: 538px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.shoe-advertisement-idea-3-co {
+  	position: absolute;
+  	top: 2328px;
+  	left: calc(50% - 730.5px);
+  	width: 719px;
+  	height: 539px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.mel-collins2 {
+  	position: absolute;
+  	top: 12px;
+  	left: calc(50% - 304.5px);
+  	font-size: 120px;
+  	font-family: 'New Rocker';
+  	color: #450a0a;
+  	display: inline-block;
+  	width: 576px;
+  	height: 132px;
+  	flex-shrink: 0;
+}
+.mel-collins3 {
+  	position: absolute;
+  	top: 1065px;
+  	left: 458px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins4 {
+  	position: absolute;
+  	top: 1049px;
+  	left: 908px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins5 {
+  	position: absolute;
+  	top: 1007px;
+  	left: 1411px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins6 {
+  	position: absolute;
+  	top: 1475px;
+  	left: 579px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins7 {
+  	position: absolute;
+  	top: 1635px;
+  	left: 1411px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins8 {
+  	position: absolute;
+  	top: 1861px;
+  	left: 678px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins9 {
+  	position: absolute;
+  	top: 1996px;
+  	left: 1342px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins10 {
+  	position: absolute;
+  	top: 2746px;
+  	left: 341px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.mel-collins11 {
+  	position: absolute;
+  	top: 2712px;
+  	left: 1307px;
+  	display: inline-block;
+  	width: 69px;
+  	height: 21px;
+  	flex-shrink: 0;
+}
+.summary {
+  	width: 100%;
+  	height: 982px;
+  	position: relative;
+  	background-color: #fff2f2;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 48px;
+  	color: #450a0a;
+  	font-family: 'Lilita One';
+}
+.summary-child {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0px;
+  	left: 0px;
+  	background-color: #db9e9e;
+  	height: 157px;
+  	flex-shrink: 0;
+}
+.summary-item {
+  	position: absolute;
+  	width: 100%;
+  	top: 157px;
+  	right: 0px;
+  	left: 0px;
+  	background-color: #af3d3d;
+  	height: 76px;
+  	flex-shrink: 0;
+}
+.about-me {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% - 326px);
+  	display: inline-block;
+  	width: 420px;
+  	height: 98px;
+  	flex-shrink: 0;
+}
+.my-projects {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% + 20px);
+  	display: inline-block;
+  	width: 268px;
+  	height: 124px;
+  	flex-shrink: 0;
+}
+.summary2 {
+  	position: absolute;
+  	top: 164px;
+  	left: calc(50% + 404px);
+  	display: inline-block;
+  	width: 414px;
+  	height: 99px;
+  	flex-shrink: 0;
+}
+.home {
+  	position: absolute;
+  	top: 165px;
+  	left: calc(50% - 671px);
+  	display: inline-block;
+  	width: 145px;
+  	height: 92px;
+  	flex-shrink: 0;
+}
+.span {
+  	color: #000;
+}
+.mel-collins {
+  	position: absolute;
+  	top: 908px;
+  	left: calc(50% - 733px);
+  	font-size: 64px;
+  	font-family: 'Libre Barcode 128 Text';
+  	color: #000;
+  	display: inline-block;
+  	width: 445px;
+  	flex-shrink: 0;
+}
+.welcome-to-my {
+  	position: absolute;
+  	top: 292px;
+  	left: 22px;
+  	font-size: 32px;
+  	white-space: pre-wrap;
+  	display: inline-block;
+  	width: 1468px;
+  	height: 590px;
+  	flex-shrink: 0;
+}
+.mel-collins2 {
+  	position: absolute;
+  	top: 12px;
+  	left: calc(50% - 313px);
+  	font-size: 120px;
+  	font-family: 'New Rocker';
+  	display: inline-block;
+  	width: 576px;
+  	height: 132px;
+  	flex-shrink: 0;
+}
+
+
+
 
 
